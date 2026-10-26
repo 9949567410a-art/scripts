@@ -20,4 +20,4 @@ echo "farhan: Virus ne bejathhi kar di, bola farhanitrate"
 echo "farhan: abba nhi manenge" > farhanitrate.txt
 
 
-
+echo "Hello what is going on im creating  a new"
